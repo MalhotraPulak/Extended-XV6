@@ -1,5 +1,6 @@
 ### Assignment on modifying XV6 kernel 
 Pulak Malhotra, 2019101050
+Note: The original commits can be found in Assignment5 Repository in this [repo](https://github.com/PulakIIIT/OS_Course_Assignments).
 
 ### Implementation:
 1. Changing proc structure and time command
